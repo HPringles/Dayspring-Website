@@ -1,0 +1,231 @@
+.title {
+	position: relative;
+	background-image: url(http://coderthemes.com/metrico_1.1/images/bg-pattern.png);
+	background-color: #D66928;
+	color : #fff;
+}
+
+
+.section {
+	
+	margin : 0;
+	position: relative;
+	padding-top: 55px;
+	padding-bottom: 55px;
+	
+}
+
+.navbar {
+	background-color: #D66928;
+	padding: 5px 0 5px 0;
+	margin: 0;
+	border : 0;
+}
+
+.navbar-default .navbar-brand {
+	color: #fff;
+	font-size: 2em;
+	font-family: Lobster;
+}
+
+.navbar-default .navbar-brand:focus,.navbar-default .navbar-brand:hover  {
+	color: #fff;
+	
+}
+
+
+.navbar-default .navbar-right {
+	color: #fff;
+	font-size: 14px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	line-height: 20px;
+	
+}
+
+#about {
+	
+	font-size: 1.1em;
+
+}
+
+
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #EFE94D;
+    background-color: #D66928;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #EFE94D;
+    background-color: #D66928;
+}
+
+#brand {
+	margin : 0;
+}
+
+.title-content > hr {
+	border-color : #fff;
+	background-color : rgba(255,255,255,1);
+	width : 125px;
+
+}
+
+.title-content {
+	padding: 220px 0px 150px;
+}
+
+.section-hr {
+	border: 2px solid #D66928;
+	width: 50px;
+	margin-left: 0;
+
+
+}
+
+.section-title {
+	letter-spacing: 2px;
+	
+	font-size: 30px;
+}
+
+
+.btn-info {
+	color: #fff;
+	font-weight:bold;
+	background-color: #4f81c5;
+	text-align: center;
+}
+
+.btn-info:hover {
+	
+	background-color: #4f81c5;
+	
+}
+
+body {
+	background-color : #fff;
+	font-family: Poppins;
+	color: #D66928;
+}
+
+.icon.fa {
+	color : #1c5680;
+	font-size: 50px;
+}
+
+
+
+
+
+#gig {
+	background-color: #ededed;
+	
+	font-size: 1.1em;
+}
+
+.back-to-top {
+	display: none;
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+}
+
+.fa.fa-bars{
+	font-size: 2em;
+	color: #fff;
+}
+
+
+
+
+.gig-hr {
+	border: 2px solid #fff;
+	width: 50px;
+	margin-left: auto;
+}
+
+
+
+.thumb {
+  background-color: #D66928;
+  color: #fff;
+  border-radius: 3px;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+  float: left;
+  width: 100%;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-image: url(http://coderthemes.com/metrico_1.1/images/bg-pattern.png);
+}
+.thumb-img {
+  width: 100%;
+  overflow: hidden;
+  border-radius: 2px;
+}
+
+.hr-center {
+	border: 2px solid #D66928;
+	width: 50px;
+	margin-left: auto;
+}
+
+input.btn-default {
+	background-color: #D66928;
+	color: #fff;
+}
+
+.footer-section {
+	background-color: #D66928;
+	color: #fff;
+}
+
+i.medium {
+	font-size: 1.5em;
+	color: white;
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: #fff;
+}
+
+a.footer-a{
+	color: #fff;
+}
+
+input.form-submit:hover {
+	background-color: #D66928;
+	color: #fff;
+}
+
+
+
+p strong a {
+	color: #D66928;
+}
+
+p strong a:hover {
+	color: #D66928;
+}
+
+.no-news {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: #D66928;
+  color: #fff;
+  border-radius: 3px;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+  float: left;
+  width: 100%;
+  
+
+  padding-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-image: url(http://coderthemes.com/metrico_1.1/images/bg-pattern.png);
+}
